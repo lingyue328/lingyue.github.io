@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to My Homepage
 
-You can use the [editor on GitHub](https://github.com/lingyue328/lingyue.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently a senior CIS major student in the Ohio State University. 
+Interested in ai, deep learning, cv, nlp, math, education, philosophy, finance. 
+Now in China, growing experience and enjoying my life. 
+Thank to 2020's strange events and conditions, I got a long peaceful period to think over my life and my values.
 
-### Markdown
+Last year, enjoy the show about [Qin emperors](https://en.wikipedia.org/wiki/Qin_dynasty).
+This is a link for TV series [大秦帝国](https://www.bilibili.com/bangumi/play/ss20172/?from=search&seid=17802427294169075027).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Ragdoll owner: I love ragdolls so much. His name is Jiajia, born in 2019.11
+  ![Image](src)
+- Games:
+  - LOL: Diamond 3 in China server.  AFK in America server
+  - CSGO: MG, but afk for a long time
+  - SGS: Spend a lot money in this stupid game.
+  - Games played last year: Cyberpunk, DMC5, Horizon zero down, ACValhalla, **Ori**....
 
-```markdown
-Syntax highlighted code block
+### Book Recommendation
+* *Essays (论人生)* by **Francis Bacon**
+* *A Confession (忏悔录)* by **Leo Tolstoy**
+* *孙子兵法* by **孙膑**
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
+- [x] wechat: yue32-8
+- [ ] email
+- [ ] QQ: 
+- [ ] steam: cly99
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lingyue328/lingyue.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
