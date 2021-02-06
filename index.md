@@ -21,7 +21,7 @@ This is a link for TV series [大秦帝国](https://www.bilibili.com/bangumi/pla
 ### Book Recommendation
 * *Essays (论人生)* by **Francis Bacon**
 * *A Confession (忏悔录)* by **Leo Tolstoy**
-* *孙子兵法* by **孙膑**
+* *孙子兵法* by **孙武**
 
 ### Contact
 - [x] wechat: yue32-8
