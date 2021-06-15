@@ -13,7 +13,7 @@ This is a link for TV series [大秦帝国](https://www.bilibili.com/bangumi/pla
 - Ragdoll owner: I love ragdolls so much. His name is Jiajia, born in 2019.11
   ![Image](https://github.com/lingyue328/lingyue.github.io/blob/gh-pages/jiajia.jpg)
 - Games:
-  - LOL: Diamond 3 in China server.  AFK in America server
+  - LOL: Diamond 3 in CN server.  AFK in NA server
   - CSGO: MG, but afk for a long time
   - SGS: Spend a lot money in this stupid game.
   - Games played last year: Cyberpunk, DMC5, Horizon zero down, ACValhalla, **Ori**....
@@ -25,7 +25,7 @@ This is a link for TV series [大秦帝国](https://www.bilibili.com/bangumi/pla
 
 ### Contact
 - [x] wechat: yue32-8
-- [ ] email
+- [x] email: lingyue328@gmail.com
 - [ ] QQ: 
 - [ ] steam: cly99
 
