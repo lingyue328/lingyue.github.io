@@ -11,7 +11,7 @@ Last year, enjoy the show about [Qin emperors](https://en.wikipedia.org/wiki/Qin
 This is a link for TV series [大秦帝国](https://www.bilibili.com/bangumi/play/ss20172/?from=search&seid=17802427294169075027).
 
 - Ragdoll owner: I love ragdolls so much. His name is Jiajia, born in 2019.11
-  ![Image](src)
+  ![Image]("/jiajia.jpg")
 - Games:
   - LOL: Diamond 3 in China server.  AFK in America server
   - CSGO: MG, but afk for a long time
