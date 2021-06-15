@@ -22,7 +22,7 @@ This is a link for TV series [大秦帝国](https://www.bilibili.com/bangumi/pla
 * *Essays (论人生)* by **Francis Bacon**
 * *A Confession (忏悔录)* by **Leo Tolstoy**
 * *孙子兵法* by **孙武**
-
+* *Meditations* by **Epictetus**
 ### Contact
 - [x] wechat: yue32-8
 - [x] email: lingyue328@gmail.com
